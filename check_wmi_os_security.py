@@ -17,7 +17,7 @@
 #
 # =============================================================================
 # :::CHANGELOG:::
-# 0.84 - Add --count and --null-output cli
+# 0.84 - Add --count and --null-output 
 # 0.83 - Add --null
 # 0.82 - Add --human-readable
 # 0.81 - The first release of the publication
