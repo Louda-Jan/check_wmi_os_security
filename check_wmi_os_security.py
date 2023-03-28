@@ -37,11 +37,12 @@ from datetime import datetime, timedelta
 import requests
 
 
-# VARIABLES ===================================================================
+# USER VARIABLES ==============================================================
 # [:::user define variable:::]
 wmi_server_url = 'http://127.0.0.1:2313/wmic'             # URL for wmic_server
 requests_timeout = 10         # default timeout (sec) for python request module
 args_inifile = "/opt/check_wmi_os_security/args.ini"
+
 
 # [:::script variables:::]-----------------------------------------------------
 script_version = '0.84'
