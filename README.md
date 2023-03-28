@@ -6,7 +6,7 @@
 
 - Windows Firewall status monitoring
 - Define your own WQL query and your own namespace. It is possible to monitor any WMI item there :) (Monitoring Windows Service, Windows Share, Windows Process, Disk partitions, etc.)
-- Windows EventLog monitoring example ( small SIEM :smiley: ):
+- Windows EventLog monitoring example ( very small SIEM :smiley: ):
   - Monitoring user operations such as user creation, deletion, password change, locking, etc.
   - Monitoring dump memory (read RDP passwords cleartext/hash from memory)
   - Account login failed multiple times
